@@ -7,7 +7,7 @@ provider:
   memorySize: 1024
   timeout: 20
   iam:
-    role: arn:aws:iam::178398338251:role/LabRole
+    role: arn:aws:iam::356609499708:role/LabRole
 
 functions:
   listar:
